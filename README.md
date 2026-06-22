@@ -22,7 +22,7 @@ I'm **Mahadev**, a fresher stepping into the data world with a chef's eye for de
 
 - 🔍 I'm currently sharpening my skills in **Data Analytics, SQL, and BI tools** like Power BI & Tableau
 - 🍳 I bring a unique mix of **hospitality precision** and **tech curiosity** to every project
-- 🌐 I speak more than one language fluently — code included 😄
+- 🌐 I speak more than 4 language fluently — code included 😄
 - 🤝 I thrive in cross-team collaboration and love untangling messy data into clean insights
 - 📍 Based in Curchorem, Goa, India
 
